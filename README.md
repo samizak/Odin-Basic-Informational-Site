@@ -6,4 +6,4 @@ A bare-bone project with no CSS styling and a simple backend server.
 
 ## Live Preview
 
-A live preview can be viewed at: basic-informational-site.samizak1864.repl.co
+A live preview can be viewed at: https://basic-informational-site--samizak1864.repl.co/
